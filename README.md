@@ -1,2 +1,0 @@
-# deno-demo
-Begin app
